@@ -1,2 +1,0 @@
-# itoc-tbs
-Portal
